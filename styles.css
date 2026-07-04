@@ -261,6 +261,12 @@ p {
   color: var(--muted);
 }
 
+.course-label {
+  margin-top: 11px;
+  color: var(--text);
+  font-weight: 600;
+}
+
 .site-footer {
   width: min(var(--max), calc(100% - 44px));
   margin: 0 auto;
